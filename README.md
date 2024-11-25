@@ -11,36 +11,36 @@ Une plateforme de covoiturage pour les étudiants et le personnel de l'Universit
 - 🌍 **Écologique** : Réduisez votre empreinte carbone en partageant les trajets.
 
 ## Installation
-**Clonez le dépôt :**
+**Clonez le dépôt :**  
 Téléchargez une copie du projet sur votre machine locale.
 ```bash
-   $ git clone https://github.com/emmagrave/covoiturage.git
+   git clone https://github.com/emmagrave/covoiturage.git
 ```
 
-**Accéder au dépôt local :**
+**Accéder au dépôt local :**  
 Déplacez-vous dans le dossier cloné.
 ```bash
-   $ cd covoiturage
+   cd covoiturage
 ```
 
-**Installer les dépendances :**
+**Installer les dépendances :**  
 Backend :
 ```bash
-   $ composer install
+   composer install
 ```
 Frontend :
 ```bash
-   $ npm install
+   npm install
 ```
 
-**Lancer l'application :**
+**Lancer l'application :**  
 Backend :
 ```bash
-   $ php artisan serve
+   php artisan serve
 ```
 Frontend :
 ```bash
-    $ npm run dev
+    npm run dev
 ```
 
 
